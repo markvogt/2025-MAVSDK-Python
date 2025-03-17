@@ -1,4 +1,4 @@
-# MV JOURNAL 
+# MV JOURNAL (newest entry on top)
 
 ### 2025 03 16 MV: 
 - RESEARCHED | DISCOVERED | FORKED | CLONED this repo
