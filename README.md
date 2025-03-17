@@ -1,4 +1,19 @@
-# MAVSDK-Python
+# MV JOURNAL 
+
+### 2025 03 16 MV: 
+- RESEARCHED | DISCOVERED | FORKED | CLONED this repo
+- CREATED new env .venv in this repo
+- ENSURED .venv, .venv*, .venv/* was included  in the .gitignore file
+- STUDIED the README file
+- ADDED "MV JOURNAL" to top of README file 
+- SAVED | COMMITTED | PUSHED to github.com (as a test) 
+
+
+
+
+# ORIGINAL README
+
+### MAVSDK-Python
 
 [![GitHub Actions Status](https://github.com/mavlink/MAVSDK-Python/workflows/Check%20and%20PyPi%20Upload/badge.svg?branch=main)](https://github.com/mavlink/MAVSDK-Python/actions/workflows/main.yml?query=branch%3Amain)
 
