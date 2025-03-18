@@ -8,8 +8,7 @@
 - ADDED "MV JOURNAL" to top of README file 
 - SAVED | COMMITTED | PUSHED to github.com (as a test) 
 
-
-
+###############################################################################
 
 # ORIGINAL README
 
