@@ -1,5 +1,9 @@
 # MV JOURNAL (newest entry on top)
 
+### 2025 03 17 MV: 
+- CONTINUED RESEARCH of this SDK
+- WATCHED some YouTube videos re: feasibility of MAVSDK in WindowsOS; SUPPOSED to be COMMONPLACE
+
 ### 2025 03 16 MV: 
 - RESEARCHED | DISCOVERED | FORKED | CLONED this repo
 - CREATED new env .venv in this repo
@@ -19,7 +23,6 @@
 This is the Python wrapper for MAVSDK.
 
 The Python wrapper is based on a gRPC client communicating with the gRPC server written in C++. To use the Python wrapper the gRPC server called "backend" needs to be running on the same system. The wrapper is essentially auto-generated from the message definitions ([proto files](https://github.com/mavlink/MAVSDK-Proto)).
-
 
 ## Important Notes
 
